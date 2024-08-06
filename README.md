@@ -1,7 +1,7 @@
 # Power BI
 - **Microsoft Power BI** is a self service business intelligence platform.
 - Power BI includes both desktop and web-based application for connecting, transforming, modeling, and visualizing data.
-- Learn more at [powerbi.microsoft.com](https://powerbi.microsoft.com/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started) | [Microsoft Learn](https://learn.microsoft.com/en-gb/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-product-desktop)
+- Learn more at [**powerbi.microsoft.com**](https://powerbi.microsoft.com/) | [**Documentation**](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started) | [**Microsoft Learn**](https://learn.microsoft.com/en-gb/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-product-desktop)
 
 **Key Characteristics of Power BI**
 1. Access and connect data from anywhere (database table, excel, csv files, web, cloud services, folders, etc)
