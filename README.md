@@ -11,6 +11,6 @@
 5. Build professional quality reports and interactive dashboards with custom data visuals.
 
 **How to use Power BI?**
-1. Download Power BI Desktop from Microsoft Store. Window handles automatic updates.
-2. Download Power BI Desktop manually from web. No automatic updates, download an executable installation file.
-3. Install as part of Microsft 365 subscriptions. Power BI Desktop and Power BI Service is as a part selected enterprice Microsoft 365.
+1. Download **Power BI Desktop** from Microsoft Store. Window handles automatic updates.
+2. Download **Power BI Desktop** manually from web. No automatic updates, download an executable installation file.
+3. Install as part of **Microsft 365** subscriptions. **Power BI Desktop** and **Power BI Service** is as a part selected enterprice Microsoft 365.
